@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Noah (aka Nogo)
+# 👋 Hello, I'm Noah (aka Bombardilo Crocodilo or Bombombini Guzini)
 
 Welcome to my GitHub profile!
 
