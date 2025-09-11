@@ -9,7 +9,8 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Skills
 
-- 💻 Programming: `C`, `Python`, `Arduino`
+- 💻 Programming: `C`, `Python`, `JavaScript`, `Arduino`
+- 👨‍🏫 Currently learning `Lua` for FiveM development
 - 🔐 Cybersecurity (beginner)
 - 🗂️ Version Control: `Git`
 
