@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Skills
 
-- 💻 Programming: `C`, `C++`, `Python`, `JavaScript/TypeScript`, `React`, `Arduino`, `Lua` for FiveM development
+- 💻 Programming: `C`, `C++`, `rust`, `Python`, `JavaScript/TypeScript`, `React`, `Arduino`, `Lua` for FiveM development
 - 🔐 Cybersecurity (beginner)
 - 🗂️ Version Control: `Git`
 
